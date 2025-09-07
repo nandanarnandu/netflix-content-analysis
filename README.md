@@ -128,7 +128,7 @@ Place your CSV inside data/ (e.g., data/ad_users.csv) or upload via the web UI.
 
 ## 🛠️ Tech Stack
 
-⦁	**Backend**: Python, Flask
+⦁	**Backend**: Python, Google Colab
 
 ⦁	**Data Processing**: Pandas, NumPy
 
