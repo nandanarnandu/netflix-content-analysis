@@ -1,9 +1,9 @@
 # 📺📊 Netflix Viewership Analytics Dashboard
 
-[![Python](https://img.shields.io/badge/python-v3.8%2B-blue.svg)](https://www.python.org/downloads/)  
-[![Flask](https://img.shields.io/badge/flask-v2.3%2B-black.svg)](https://flask.palletsprojects.com/)  
-[![Pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)  
-[![Plotly](https://img.shields.io/badge/plotly-Interactive%20Charts-blue.svg)](https://plotly.com/python/)  
+[![Python](https://img.shields.io/badge/python-v3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/flask-v2.3%2B-black.svg)](https://flask.palletsprojects.com/)
+[![Pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/plotly-Interactive%20Charts-blue.svg)](https://plotly.com/python/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > A complete Flask-based analytics dashboard that visualizes Netflix content viewership trends by content type, language, release month, and day of the week to uncover audience preferences. Built with Python, Flask, Pandas, and Plotly.
